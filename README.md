@@ -4,7 +4,7 @@ CIA Country Analysis and Clustering with KMeans
 [Source: All these data sets are made up of data from the US government](https://www.cia.gov/library/publications/the-world-factbook/docs/faqs.html)
 
 
-[Click here to see the whole codes!](A-Country-Analysis-and-Clustering/blob/main/CIA_Country_Analysis_and_Clustering_w_Kmeans.ipynb)
+[Click here to see the whole codes!](https://github.com/docum5/CIA-Country-Analysis-and-Clustering/blob/main/CIA_Country_Analysis_and_Clustering_w_Kmeans.ipynb)
 # Goal :
 Gain insights into similarity between countries and regions of the world by experimenting with different cluster amounts. What do these clusters represent?
 
